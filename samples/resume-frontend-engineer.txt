@@ -1,0 +1,50 @@
+SARAH MICHELLE CHEN
+Frontend Engineer
+Email: sarah.chen@email.com | Phone: (555) 987-6543
+Portfolio: sarahchen.dev | LinkedIn: linkedin.com/in/sarahchen
+
+SUMMARY
+Creative Frontend Engineer with 4 years of experience building responsive, accessible web applications. Passionate about UI/UX design and creating delightful user experiences. Strong expertise in React, TypeScript, and modern frontend tooling.
+
+SKILLS
+Frontend: React, Next.js, Vue.js, HTML5, CSS3, JavaScript/TypeScript
+Styling: Tailwind CSS, Styled Components, SASS, CSS Modules
+State: Redux, Zustand, React Query, Context API
+Testing: Jest, React Testing Library, Cypress, Playwright
+Tools: Vite, Webpack, Git, Figma, Storybook
+Backend: Node.js (basic), REST APIs, GraphQL
+
+EXPERIENCE
+
+Frontend Engineer | DesignTech Labs | New York, NY
+March 2022 - Present
+• Developed responsive web applications using React and TypeScript for 200K+ users
+• Improved page load performance by 50% through code splitting and lazy loading
+• Implemented design system with Storybook, ensuring consistency across 15+ components
+• Collaborated with designers using Figma to translate mockups into pixel-perfect interfaces
+• Wrote comprehensive unit and integration tests achieving 90% coverage
+• Tech: React, TypeScript, Tailwind CSS, Next.js, React Query
+
+Junior Frontend Developer | WebSolutions Co. | Remote
+July 2020 - February 2022
+• Built interactive dashboards using React and Chart.js
+• Integrated RESTful APIs and handled state management with Redux
+• Implemented responsive designs supporting mobile, tablet, and desktop
+• Participated in agile sprints and daily standups
+• Tech: React, JavaScript, Redux, Bootstrap, Webpack
+
+EDUCATION
+Bachelor of Arts in Graphic Design
+New York University | New York, NY
+Graduated: May 2020
+
+PROJECTS
+Portfolio Website (sarahchen.dev)
+• Built with Next.js, TypeScript, and Tailwind CSS
+• Implemented dark mode and smooth animations
+• Optimized for SEO and accessibility (WCAG 2.1 AA)
+
+Component Library (npm: 5K downloads/month)
+• Open-source React component library with 20+ components
+• Full TypeScript support and comprehensive documentation
+• Integrated with Storybook for component preview

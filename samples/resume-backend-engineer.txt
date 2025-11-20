@@ -1,0 +1,72 @@
+JOHN MICHAEL ANDERSON
+Senior Backend Engineer
+Email: john.anderson@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johnanderson | GitHub: github.com/janderson
+
+PROFESSIONAL SUMMARY
+Highly skilled Backend Engineer with 6+ years of experience building scalable web applications and microservices. Expert in Node.js, Python, and distributed systems. Proven track record of leading backend teams and architecting high-performance APIs serving millions of users.
+
+TECHNICAL SKILLS
+Languages: JavaScript/TypeScript, Python, Java, Go
+Backend: Node.js, Express.js, FastAPI, Django, Spring Boot
+Databases: PostgreSQL, MongoDB, Redis, MySQL, Elasticsearch
+Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+Tools: Git, Jenkins, Terraform, Prometheus, Grafana
+Architecture: Microservices, REST APIs, GraphQL, Event-driven systems
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Engineer | TechCorp Solutions | San Francisco, CA
+January 2021 - Present
+• Lead a team of 5 backend engineers building scalable microservices architecture serving 10M+ users
+• Designed and implemented RESTful APIs using Node.js and Express.js, reducing response times by 40%
+• Architected event-driven system using AWS Lambda and SQS, processing 500K events/day
+• Migrated monolithic application to microservices, improving deployment frequency from weekly to daily
+• Mentored junior developers and conducted code reviews to maintain high code quality standards
+• Technologies: Node.js, TypeScript, PostgreSQL, Redis, AWS, Docker, Kubernetes
+
+Backend Engineer | DataFlow Inc. | Austin, TX
+June 2018 - December 2020
+• Built and maintained backend services for real-time data processing platform
+• Developed Python-based ETL pipelines processing 2TB of data daily
+• Implemented caching layer with Redis, reducing database load by 60%
+• Created comprehensive API documentation using Swagger/OpenAPI
+• Collaborated with frontend team to design efficient GraphQL schemas
+• Technologies: Python, FastAPI, PostgreSQL, MongoDB, Redis, AWS
+
+Junior Software Engineer | StartupXYZ | Remote
+May 2017 - May 2018
+• Developed backend features for SaaS product using Node.js and MongoDB
+• Implemented user authentication and authorization using JWT
+• Wrote unit and integration tests achieving 85% code coverage
+• Participated in agile development process with bi-weekly sprints
+• Technologies: Node.js, Express.js, MongoDB, Jest, AWS
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of California, Berkeley | Berkeley, CA
+Graduated: May 2017 | GPA: 3.7/4.0
+
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Distributed Systems, Operating Systems
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2022)
+• MongoDB Certified Developer (2021)
+
+PROJECTS
+
+E-Commerce Platform Backend (GitHub: 2.5K stars)
+• Open-source Node.js/Express backend for e-commerce applications
+• Implemented payment processing, inventory management, and order tracking
+• Used by 500+ developers worldwide
+
+Real-Time Analytics Dashboard
+• Built WebSocket-based real-time analytics system processing 100K events/second
+• Leveraged Redis Pub/Sub and PostgreSQL for data storage
+• Deployed on Kubernetes with auto-scaling capabilities
+
+ACHIEVEMENTS
+• Reduced API response time by 70% through query optimization and caching
+• Increased system uptime from 99.5% to 99.95% through better monitoring and alerting
+• Published 3 technical blog posts on backend architecture, reaching 50K+ readers

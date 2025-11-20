@@ -1,0 +1,34 @@
+FULL STACK DEVELOPER
+
+ABOUT US
+Innovative startup building AI-powered productivity tools.
+
+POSITION: Full Stack Developer
+LOCATION: Remote (US-based)
+EXPERIENCE: 3-5 years
+
+REQUIREMENTS
+• Strong experience with React and Node.js
+• Experience with TypeScript
+• Knowledge of PostgreSQL or MongoDB
+• Familiarity with AWS or similar cloud platforms
+• Bachelor's degree in Computer Science or equivalent experience
+• Excellent problem-solving skills
+• Strong communication skills
+
+RESPONSIBILITIES
+• Build full-stack features from frontend to backend
+• Write clean, maintainable code
+• Collaborate with cross-functional teams
+• Participate in code reviews
+
+NICE TO HAVE
+• Experience with Next.js
+• Knowledge of Docker
+• Previous startup experience
+• Open-source contributions
+
+TECH STACK
+React, Node.js, TypeScript, PostgreSQL, AWS
+
+SALARY: $100,000 - $140,000 + equity

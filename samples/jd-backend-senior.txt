@@ -1,0 +1,76 @@
+JOB DESCRIPTION
+Senior Backend Engineer
+
+COMPANY OVERVIEW
+We are a fast-growing SaaS company building the next generation of business intelligence tools. Our platform serves over 5 million users worldwide and processes billions of data points daily.
+
+POSITION: Senior Backend Engineer
+LOCATION: San Francisco, CA / Remote
+TYPE: Full-time
+SALARY: $150,000 - $200,000 + equity
+
+ABOUT THE ROLE
+We're looking for an experienced Senior Backend Engineer to join our Core Platform team. You'll be responsible for designing and building scalable backend services that power our analytics platform. This role requires strong technical skills, leadership experience, and a passion for building high-performance systems.
+
+REQUIREMENTS
+
+Must Have:
+• 5+ years of professional backend development experience
+• Expert-level proficiency in Node.js and TypeScript
+• Strong experience with PostgreSQL and database optimization
+• Hands-on experience with AWS cloud services (EC2, S3, Lambda, RDS)
+• Experience building and deploying microservices
+• Solid understanding of RESTful API design principles
+• Experience with Docker and Kubernetes
+• Strong knowledge of distributed systems and event-driven architecture
+• Bachelor's degree in Computer Science or related field from an accredited university
+
+Nice to Have:
+• Experience with Python or Go
+• Knowledge of GraphQL
+• Experience with Redis or other caching solutions
+• Familiarity with Terraform or other Infrastructure as Code tools
+• Experience with monitoring tools (Prometheus, Grafana, DataDog)
+• Previous experience in a leadership or mentoring role
+• Open-source contributions
+
+RESPONSIBILITIES
+• Design, develop, and maintain scalable backend services and APIs
+• Lead architectural decisions for new features and services
+• Collaborate with frontend engineers, product managers, and designers
+• Write clean, maintainable, and well-tested code
+• Mentor junior and mid-level engineers
+• Participate in code reviews and technical discussions
+• Optimize application performance and database queries
+• Ensure high availability and reliability of backend systems
+• Contribute to technical documentation and best practices
+
+WHAT WE OFFER
+• Competitive salary and equity package
+• Comprehensive health, dental, and vision insurance
+• 401(k) matching
+• Unlimited PTO
+• Remote-friendly work environment
+• Professional development budget ($2,000/year)
+• Latest MacBook Pro and equipment
+• Collaborative and inclusive team culture
+
+TECH STACK
+• Backend: Node.js, TypeScript, Express.js, Python
+• Databases: PostgreSQL, MongoDB, Redis
+• Cloud: AWS (EC2, S3, Lambda, RDS, SQS)
+• Infrastructure: Docker, Kubernetes, Terraform
+• Monitoring: Prometheus, Grafana, CloudWatch
+• CI/CD: Jenkins, GitHub Actions
+
+INTERVIEW PROCESS
+1. Initial screening call (30 minutes)
+2. Technical phone interview (60 minutes)
+3. Take-home coding assignment (3-4 hours)
+4. Virtual onsite (4 hours) - System design + coding + behavioral
+5. Final chat with VP of Engineering (30 minutes)
+
+TO APPLY
+Send your resume and GitHub profile to careers@company.com
+
+We are an equal opportunity employer and value diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
